@@ -1,2 +1,2 @@
 # React-Semos
- SemosEdu-React class
+ SemosEdu-React course
